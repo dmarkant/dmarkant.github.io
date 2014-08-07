@@ -4,7 +4,7 @@
  <title>half a mind</title>
  <link href="http://dougmarkant.com/atom.xml" rel="self"/>
  <link href="http://dougmarkant.com/"/>
- <updated>2014-08-07T11:41:22+02:00</updated>
+ <updated>2014-08-07T12:14:16+02:00</updated>
  <id>http://dougmarkant.com</id>
  <author>
    <name>Doug Markant</name>
@@ -192,7 +192,9 @@
    <link href="http://dougmarkant.com/2013/12/31/whats-jekyll/"/>
    <updated>2013-12-31T00:00:00+01:00</updated>
    <id>http://dougmarkant.com/2013/12/31/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
+   <content type="html">&lt;iframe src=&quot;http://bl.ocks.org/mbostock/raw/4061502/0a200ddf998aa75dfdb1ff32e16b680a15e5cb01/&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; width=100% height=400px style=&quot;border: none&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
