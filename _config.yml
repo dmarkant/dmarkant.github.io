@@ -1,15 +1,15 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            half a mind
-tagline:          'thoughts on the computational science of learning'
-description:      'A place for thoughts on cognition, decision making, and learning.'
-url:              http://dougmarkant.com
+title:            Half a mind
+tagline:          'Notes on the science of learning'
+description:      'Thoughts on decision making, cognition, and learning.'
+url:              http://dmarkant.github.io
 baseurl:          '/'
 paginate:         5
 
@@ -21,4 +21,6 @@ author:
 version:          1.0.0
 
 github:
-  repo:           https://github.com/dmarkant/dmarkant.github.io
+  repo:           
+
+gems:             [jekyll-paginate]
