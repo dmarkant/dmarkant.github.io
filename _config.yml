@@ -25,3 +25,6 @@ github:
   repo:           
 
 gems:             [jekyll-paginate]
+
+kramdown: 
+  parse_block_html: true
