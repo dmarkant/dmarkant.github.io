@@ -9,13 +9,9 @@ comments: false
 
 <ul>
 
-<li class=pub>
-Markant, D., Ruggeri, A., Gureckis, T. M., and Xu, F. (2016, in press). “Enhanced memory as a common effect of active learning.” <i>Mind, Brain, and Education.</i>
-</li>
+- Markant, D., Ruggeri, A., Gureckis, T. M., and Xu, F. (2016, in press). “Enhanced memory as a common effect of active learning.” <i>Mind, Brain, and Education.</i>
 
-<li class=pub>
-Markant, D. (2016, in press). <a href=/assets/Markant_CogSci2016.pdf>“The impact of biased hypothesis generation on self-directed learning.”</a> In Papafragou, A., Grodner, D., Mirman, D., and Trueswell, J. (Eds.) <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i>. Austin, TX: Cognitive Science Society.
-</li>
+- Markant, D. (2016, in press). <a href=/assets/Markant_CogSci2016.pdf>“The impact of biased hypothesis generation on self-directed learning.”</a> In Papafragou, A., Grodner, D., Mirman, D., and Trueswell, J. (Eds.) <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i>. Austin, TX: Cognitive Science Society.
 
 
 <li class=pub>
