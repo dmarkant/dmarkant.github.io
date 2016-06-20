@@ -42,14 +42,12 @@ body {
 
 html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
-  font-size: 1.1rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Source Sans Pro", "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: #313131;
-  letter-spacing: -.025rem;
 }
 
 
@@ -307,11 +305,13 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: black;
+  font-size: 2rem;
 }
 .page-title,
 .post-title {
   margin-top: 0;
+  font-size: 2rem;
 }
 
 /* Meta data line below post title */

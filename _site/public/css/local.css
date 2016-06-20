@@ -1,0 +1,38 @@
+a img {
+border:none;
+}
+
+a:hover {
+    background-color: white;
+}
+
+
+li.pub {
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.addendum {
+    color: gray;
+    font-style: italic;
+    padding-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+img.inline-right {
+    display: inline-block;
+    float: right;
+    margin-left: 20px;
+}
+
+.attn {
+    font-size: 1.3em;
+}
+
+h1 {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
