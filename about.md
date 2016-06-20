@@ -5,7 +5,6 @@ comments: false
 ---
 
 <img src=/assets/markant_portrait_small.jpg height=210 class=inline-right> 
-![portrait](/assets/markant_portrait_small.jpg)
 I am currently a postdoctoral researcher at the <a href="https://www.mpib-berlin.mpg.de/en/research/adaptive-rationality">Center for Adaptive Rationality</a>, within the Max Planck Institute for Human Development in Berlin. In January 2014 I completed my Ph.D. in the <a href="http://www.psych.nyu.edu/programs/cp/">Cognition and Perception</a> program at New York University, where I worked with Prof. <a href="http://smash.psych.nyu.edu/~gureckis/">Todd Gureckis</a>. 
 Prior to that I worked in the <a href="http://pnl.bwh.harvard.edu">Psychiatry Neuroimaging Laboratory</a> within Harvard Medical School, where I used structural and functional MRI to measure brain differences in psychiatric populations (e.g., PTSD and schizophrenia). I first became interested in cognitive science during my undergraduate studies at Cornell (even though I pretended to be computer science major for a while).
 
