@@ -36,3 +36,11 @@ h1 {
     font-size: 1.3rem;
     font-weight: bold;
 }
+
+
+#img-portrait {
+    height: 210;
+    display: inline-block;
+    float: right;
+    margin-left: 20px;
+}
