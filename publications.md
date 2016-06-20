@@ -14,14 +14,14 @@ comments: false
 <a href="/assets/psiTurkBRM2015.pdf">"psiTurk: An open-source framework for conducting replicable behavioral experiments online."</a>
 <i>Behavior Research Methods</i>.
   - If you want to conduct research using Amazon Mechanical Turk, <a href=http://www.psiturk.org><i>psiTurk</i></a> will help you get started and deal with some technical hurdles. It also makes it easy to <a href=https://psiturk.org/ee/>share your experiments</a> with others so that they can quickly
-replicate and improve upon your ideas :)</a>
+replicate and improve upon your ideas :)
 - Markant, D., Pleskac, T.J., Diederich, A., Pachur, T., and Hertwig, R. (2015). 
 <a href="/assets/Markant_CogSci2015.pdf">"Modeling choice and search in decisions from experience: A sequential sampling approach."</a> 
 In Dale., R., Jennings, C., Maglio, P., Matlock, T., Noelle, D., Warlaumont, A., Yoshimi, J. (Eds.), <i>Proceedings of the 37th Annual Conference of the Cognitive Science Society.</i> Austin, TX: Cognitive Science Society.
 <a href="/assets/markant2015chase.bib">[bibtex]</a>
 - Markant, D., Dubrow, S., Davachi, L., and Gureckis, T.M. (2014). <a href="http://link.springer.com/article/10.3758/s13421-014-0435-9">"Deconstructing the effect of self-directed study on episodic memory."</a> <i>Memory & Cognition 42</i>(8), 1211&mdash;1224. doi: 10.3758/s13421-014-0435-9
 <a href="../doc/markant2014deconstructing.bib">[bibtex]</a>
-  - Read a blog post summarizing this research <a href=http://www.psychonomic.org/featured-content-detail/why-is-selfdirected-study-more-effective-than-foll>here.</a>
+  - Read a blog post summarizing this research [here](http://www.psychonomic.org/featured-content-detail/why-is-selfdirected-study-more-effective-than-foll).
 - Markant, D. and Gureckis, T.M. (2014). <a href="../doc/MarkantGureckis_CogSci2014.pdf">"A preference for the unpredictable over the informative during self-directed learning."</a> in P. Bello, M. Guarini, M. McShane, and B. Scassellati (Eds.) <i>Proceedings of the 36th Annual Conference of the Cognitive Science Society.</i> Austin, TX: Cognitive Science Society.
 <a href="../doc/markant2014unpredict.bib">[bibtex]</a>
 - Markant, D. and Gureckis, T.M. (2014). <a href="http://dx.doi.org/10.1037/a0032108">"Is it better to select or receive? Learning via active and passive hypothesis testing."</a> <i>Journal of Experimental Psychology: General 143</i>(1), 94&mdash;122.
