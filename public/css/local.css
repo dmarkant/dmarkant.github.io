@@ -39,7 +39,7 @@ h1 {
 
 
 #img-portrait {
-    width: 210;
+    width: .8rem;
     display: inline-block;
     float: right;
     margin-left: 20px;
