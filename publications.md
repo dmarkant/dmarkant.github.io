@@ -9,7 +9,7 @@ comments: false
 
 
 - Markant, D., Ruggeri, A., Gureckis, T. M., and Xu, F. (2016, in press). “Enhanced memory as a common effect of active learning.” <i>Mind, Brain, and Education.</i>
-- Markant, D. (2016, in press). <a href=/assets/Markant_CogSci2016.pdf>“The impact of biased hypothesis generation on self-directed learning.”</a> In Papafragou, A., Grodner, D., Mirman, D., and Trueswell, J. (Eds.) <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i>. Austin, TX: Cognitive Science Society.
+- Markant, D. (2016, in press). [“The impact of biased hypothesis generation on self-directed learning.”](/assets/Markant_CogSci2016.pdf) In Papafragou, A., Grodner, D., Mirman, D., and Trueswell, J. (Eds.) <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i>. Austin, TX: Cognitive Science Society.
 - Ruggeri, A., Markant, D., Gureckis, T. M., and Xu, F. (2016, in press). <a href=/assets/RuggeriEtAl_CogSci2016.pdf>Active control of study leads to improved recognition memory in children.”</a> In Papafragou, A., Grodner, D., Mirman, D., and Trueswell, J. (Eds.) <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i>. Austin, TX: Cognitive Science Society.
 - Markant, D., Settles, B., and Gureckis, T.M. (2016). <a href="http://dx.doi.org/10.1111/cogs.12220">"Self-directed learning favors local, rather than global, uncertainty."</a> <i>Cognitive Science 40</i>(1), 100—120. doi: 10.1111/cogs.12220
 - Gureckis, T.M., Martin, J., McDonnell, J.V., Rich, A.S., Markant, D., Coenen, A., Hamrick, J., Chan, P. (2015).
