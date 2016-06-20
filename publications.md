@@ -26,11 +26,6 @@ In Dale., R., Jennings, C., Maglio, P., Matlock, T., Noelle, D., Warlaumont, A.,
 <a href="../doc/markant2014unpredict.bib">[bibtex]</a>
 - Markant, D. and Gureckis, T.M. (2014). <a href="http://dx.doi.org/10.1037/a0032108">"Is it better to select or receive? Learning via active and passive hypothesis testing."</a> <i>Journal of Experimental Psychology: General 143</i>(1), 94&mdash;122.
 <a href="../doc/markant2014select.bib">[bibtex]</a>
-<!--<ul class=addendum>
-    <li>A subset of conditions in this experiment were recently replicated online as part of a graduate course; 
-see the <a href="http://rpubs.com/kyle_macdonald/71592">analysis</a> and
-<a href="https://github.com/kemacdonald/Act-Learn">repository</a>.</li>
-</ul>-->
 - Gureckis, T.M. and Markant, D. (2012). <a href="http://gureckislab.org/papers/GureckisMarkantPPS2012.pdf">"Self-directed learning: A cognitive and computational perspective."</a> <i>Perspectives on Psychological Science, 7</i>(5), 464&mdash;481.
 <a href="../doc/gureckis2012pps.bib">[bibtex]</a>                
 - Markant, D. and Gureckis, T.M. (2012). <a href="http://gureckislab.org/papers/MarkantGureckis.CogSci2012.ternary.pdf">"One piece at a time: Learning complex rules through self-directed sampling."</a> in Miyake, N. and Peebles, D. and Cooper, R.P. (Eds), Proceedings of the 34th Annual Conference of the Cognitive Science Society (pp. 725&mdash;730). Austin, TX: Cognitive Science Society.
