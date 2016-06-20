@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Half a mind
 tagline:          'Science-y thoughts about learning and uncertainty'
 description:      'Learning, decision making, and cognitive science.'
-url:              dmarkant.github.io
+url:              http://dmarkant.github.io
 #url:              http://127.0.0.1:4000
 baseurl:          '/'
 paginate:         5
