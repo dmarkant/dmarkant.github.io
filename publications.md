@@ -6,8 +6,6 @@ comments: false
 
 [Google scholar profile](https://scholar.google.com/citations?user=lXiXiHAAAAAJ&hl=en)
 
-
-
 - Markant, D., Ruggeri, A., Gureckis, T. M., and Xu, F. (2016, in press). “Enhanced memory as a common effect of active learning.” <i>Mind, Brain, and Education.</i>
 - Markant, D. (2016, in press). [“The impact of biased hypothesis generation on self-directed learning.”](/assets/Markant_CogSci2016.pdf) In Papafragou, A., Grodner, D., Mirman, D., and Trueswell, J. (Eds.) <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i>. Austin, TX: Cognitive Science Society.
 - Ruggeri, A., Markant, D., Gureckis, T. M., and Xu, F. (2016, in press). [Active control of study leads to improved recognition memory in children.”](/assets/RuggeriEtAl_CogSci2016.pdf) In Papafragou, A., Grodner, D., Mirman, D., and Trueswell, J. (Eds.) <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i>. Austin, TX: Cognitive Science Society.
