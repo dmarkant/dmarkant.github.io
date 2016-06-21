@@ -7,15 +7,16 @@ a:hover {
 }
 
 
-li.pub {
+li {
     margin-top: 15px;
     margin-bottom: 5px;
 }
 
-.addendum {
+ul li ul li {
     color: gray;
     font-style: italic;
-    padding-left: 20px;
+    padding-left: 0px;
+    margin-left: -15px;
     margin-top: 0px;
     margin-bottom: 5px;
     list-style-type: square;

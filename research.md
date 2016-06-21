@@ -5,26 +5,24 @@ comments: false
 published: false
 ---
 
-<div class=attn>
+{:class="attn"}
 Humans are active learners.
-Our decisions shape how we learn about the world.
-My research examines how people make choices about how and what they learn. 
-In addition, finding the limits of such active control.
+The information a person experiences is usually determined, at least in part, by 
+choices that they make and how they exert control over their environment.
 
+How do people control how they learn? How do they decide what information will 
+be useful? How do cognitive constraints limit what they can learn on their own? 
+When is learning more effective when directed by someone else, like a teacher 
+or an algorithm?
 
-</div>
+My research examines the cognitive processes involved in human learning and decision
+making and their implications for real-world learning environments. I use a combination
+of behavioral experiments and computational modeling to understand how decision making
+and learning interact. In particular, I’m interested in how people perceive uncertainty 
+and use it to guide their own learning.
 
-# Research interests
-
-I am interested in the computational science of learning, where the goal is to understand the cognitive processes involved in human learning and decision making and their implications for real-world learning environments. My research has focused in particular on how people make <i>self-directed</i> decisions that affect the course of their own experience (e.g., controlling what information they see, which material to study, how long to search for a new idea, etc.).
-
-
-1. Understanding the interaction of learning and decision making. I'm interested in types of learning that are active in that they don't just happen to you--they require active decision making about what or how to learn. 
-
-1. My work involves behavioral experiments and computational modeling. From a modeling perspective, I believe in a pluralistic approach. Bayesian frameworks, heuristic methods from machine learning, serious consideration of plausible process models. 
-
-1. I think that there's a lot to learn about human learning, and my principal goal is to 
-
+Continue reading below for some brief descriptions of projects I’ve worked on, or see
+the list of [publications](/publications).
 
 
 # The benefits of self-directed control

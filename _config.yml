@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Half a mind
 tagline:          'Science-y thoughts about learning and uncertainty'
 description:      'Learning, decision making, and cognitive science.'
-url:              http://www.dougmarkant.com
-#url:              http://127.0.0.1:4000
+#url:              http://www.dougmarkant.com
+url:              http://127.0.0.1:4000
 baseurl:          '/'
 paginate:         5
 
