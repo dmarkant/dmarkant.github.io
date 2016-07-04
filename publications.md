@@ -13,7 +13,7 @@ comments: false
 - Gureckis, T.M., Martin, J., McDonnell, J.V., Rich, A.S., Markant, D., Coenen, A., Hamrick, J., Chan, P. (2015).
 <a href="/assets/psiTurkBRM2015.pdf">"psiTurk: An open-source framework for conducting replicable behavioral experiments online."</a>
 <i>Behavior Research Methods</i>.
-  - If you want to conduct research using Amazon Mechanical Turk, [psiTurk](http://www.psiturk.org>) will help you get started and deal with some technical hurdles. It also makes it easy to [share your experiments](https://psiturk.org/ee/) with others so that they can quickly
+  - If you want to conduct research using Amazon Mechanical Turk, [psiTurk](http://www.psiturk.org) will help you get started and deal with some technical hurdles. It also makes it easy to [share your experiments](https://psiturk.org/ee/) with others so that they can quickly
 replicate and improve upon your ideas :)
 - Markant, D., Pleskac, T.J., Diederich, A., Pachur, T., and Hertwig, R. (2015). 
 <a href="/assets/Markant_CogSci2015.pdf">"Modeling choice and search in decisions from experience: A sequential sampling approach."</a> 
