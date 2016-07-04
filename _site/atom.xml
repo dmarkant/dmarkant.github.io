@@ -4,13 +4,27 @@
  <title>Half a mind</title>
  <link href="http://127.0.0.1:4000/atom.xml" rel="self"/>
  <link href="http://127.0.0.1:4000/"/>
- <updated>2016-06-21T10:42:35+02:00</updated>
+ <updated>2016-07-04T08:52:37+02:00</updated>
  <id>http://127.0.0.1:4000</id>
  <author>
    <name>Doug Markant</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Active learning workshop at CogSci</title>
+   <link href="http://127.0.0.1:4000/2016/07/04/cogsciworkshop/"/>
+   <updated>2016-07-04T00:00:00+02:00</updated>
+   <id>http://127.0.0.1:4000/2016/07/04/cogsciworkshop</id>
+   <content type="html">&lt;p&gt;Next month I’ll be participating in a full-day workshop at CogSci,
+entitled &lt;a href=&quot;https://sites.google.com/site/activelearningworkshop16/home&quot;&gt;“Active learning: Cognitive development, education, and 
+computational models.”&lt;/a&gt;
+The workshop will feature lots of terrific researchers from the CogSci community 
+who have been thinking about active learning from many angles.
+Come by if you are in Philly on Wednesday!&lt;/p&gt;
+</content>
+ </entry>
  
 
 </feed>
