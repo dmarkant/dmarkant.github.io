@@ -11,6 +11,8 @@ Prior to that I worked in the <a href="http://pnl.bwh.harvard.edu">Psychiatry Ne
 I’m interested in how minds make learning possible. The aim of my research is to understand the cognitive processes involved in human learning and decision making, how those processes are shaped by the external environment, and what they imply for real-world learning problems (including educational practices). 
 For more information on the research I’ve done so far, please see the list of [publications](/publications).
 
+[CV](/assets/markant_cv.pdf)
+
 <i>Contact: markant@mpib-berlin.mpg.de</i>
 
 <a href="https://twitter.com/dougmarkant" class="twitter-follow-button" data-show-count="false">Follow @dougmarkant</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
