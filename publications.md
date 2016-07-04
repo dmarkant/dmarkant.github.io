@@ -22,18 +22,18 @@ In Dale., R., Jennings, C., Maglio, P., Matlock, T., Noelle, D., Warlaumont, A.,
 - Markant, D., Dubrow, S., Davachi, L., and Gureckis, T.M. (2014). <a href="http://link.springer.com/article/10.3758/s13421-014-0435-9">"Deconstructing the effect of self-directed study on episodic memory."</a> <i>Memory & Cognition 42</i>(8), 1211&mdash;1224. doi: 10.3758/s13421-014-0435-9
 <a href="../doc/markant2014deconstructing.bib">[bibtex]</a>
   - Read a blog post summarizing this research [here](http://www.psychonomic.org/featured-content-detail/why-is-selfdirected-study-more-effective-than-foll).
-- Markant, D. and Gureckis, T.M. (2014). <a href="../doc/MarkantGureckis_CogSci2014.pdf">"A preference for the unpredictable over the informative during self-directed learning."</a> in P. Bello, M. Guarini, M. McShane, and B. Scassellati (Eds.) <i>Proceedings of the 36th Annual Conference of the Cognitive Science Society.</i> Austin, TX: Cognitive Science Society.
-<a href="../doc/markant2014unpredict.bib">[bibtex]</a>
+- Markant, D. and Gureckis, T.M. (2014). <a href="/assets/MarkantGureckis_CogSci2014.pdf">"A preference for the unpredictable over the informative during self-directed learning."</a> in P. Bello, M. Guarini, M. McShane, and B. Scassellati (Eds.) <i>Proceedings of the 36th Annual Conference of the Cognitive Science Society.</i> Austin, TX: Cognitive Science Society.
+<a href="/assets/markant2014unpredict.bib">[bibtex]</a>
 - Markant, D. and Gureckis, T.M. (2014). <a href="http://dx.doi.org/10.1037/a0032108">"Is it better to select or receive? Learning via active and passive hypothesis testing."</a> <i>Journal of Experimental Psychology: General 143</i>(1), 94&mdash;122.
-<a href="../doc/markant2014select.bib">[bibtex]</a>
+<a href="/assets/markant2014select.bib">[bibtex]</a>
 - Gureckis, T.M. and Markant, D. (2012). <a href="http://gureckislab.org/papers/GureckisMarkantPPS2012.pdf">"Self-directed learning: A cognitive and computational perspective."</a> <i>Perspectives on Psychological Science, 7</i>(5), 464&mdash;481.
-<a href="../doc/gureckis2012pps.bib">[bibtex]</a>                
+<a href="/assets/gureckis2012pps.bib">[bibtex]</a>                
 - Markant, D. and Gureckis, T.M. (2012). <a href="http://gureckislab.org/papers/MarkantGureckis.CogSci2012.ternary.pdf">"One piece at a time: Learning complex rules through self-directed sampling."</a> in Miyake, N. and Peebles, D. and Cooper, R.P. (Eds), Proceedings of the 34th Annual Conference of the Cognitive Science Society (pp. 725&mdash;730). Austin, TX: Cognitive Science Society.
-<a href="../doc/markant2012one.bib">[bibtex]</a>                
+<a href="/assets/markant2012one.bib">[bibtex]</a>                
 - Markant, D. and Gureckis, T.M. (2012). <a href="http://gureckislab.org/papers/MarkantGureckis.CogSci2012.battleship.pdf">"Does the utility of information influence sampling behavior?"</a> in Miyake, N. and Peebles, D. and Cooper, R.P. (Eds), Proceedings of the 34th Annual Conference of the Cognitive Science Society (pp. 719&mdash;724). Austin, TX: Cognitive Science Society.
-<a href="../doc/markant2012utility.bib">[bibtex]</a>                                
+<a href="/assets/markant2012utility.bib">[bibtex]</a>                                
 - Markant, D. and Gureckis, T.M. (2010) <a href="http://gureckislab.org/papers/MarkantGureckisCogSci2010.pdf">"Category learning through active sampling"</a> in Ohlsson, S. and Catrambone, R. (Eds), Proceedings of the 32nd Annual Conference of the Cognitive Science Society (pp. 248&mdash;253). Austin, TX: Cognitive Science Society.
-<a href="../doc/markant2010category.bib">[bibtex]</a>
+<a href="/assets/markant2010category.bib">[bibtex]</a>
 - Gureckis, T.M. and Markant, D. (2009) <a href="http://smash.psych.nyu.edu/papers/GureckisMarkantCogSci2009.pdf">"Active learning strategies in a spatial concept learning game"</a> in Taatgen, N., van Rijn, H., Schomaker, L. and Nerbonne, J. (Eds), Proceedings of the 31st Annual Conference of the Cognitive Science Society (pp. 3145&mdash;3150). Austin, TX: Cognitive Science Society. 
-<a href="../doc/gureckis2009battleship.bib">[bibtex]</a>                                    
+<a href="/assets/gureckis2009battleship.bib">[bibtex]</a>                                    
 
