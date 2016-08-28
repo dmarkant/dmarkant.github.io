@@ -4,7 +4,7 @@
  <title>Half a mind</title>
  <link href="http://127.0.0.1:4000/atom.xml" rel="self"/>
  <link href="http://127.0.0.1:4000/"/>
- <updated>2016-08-17T12:37:37+01:00</updated>
+ <updated>2016-08-28T19:52:05+02:00</updated>
  <id>http://127.0.0.1:4000</id>
  <author>
    <name>Doug Markant</name>
@@ -15,7 +15,7 @@
  <entry>
    <title>CogSci 2016 - Hypothesis generation and self-directed learning</title>
    <link href="http://127.0.0.1:4000/2016/08/16/cogsciposter/"/>
-   <updated>2016-08-16T00:00:00+01:00</updated>
+   <updated>2016-08-16T00:00:00+02:00</updated>
    <id>http://127.0.0.1:4000/2016/08/16/cogsciposter</id>
    <content type="html">&lt;p&gt;At CogSci this year I presented some new work on hypothesis generation and its role in self-directed learning (specifically, the learning of categorical rules). This project explores the idea that hypothesis generation is a bottleneck in active learning, as is suggested by a lot of work in classic cognitive tasks as well as studies from educational psychology. The results give an example of how biases in the hypothesis generation process can have a big impact on whether people can efficiently learn different kinds of rules.&lt;/p&gt;
 
@@ -29,7 +29,7 @@
  <entry>
    <title>Enhanced memory as a common effect of active learning (new paper)</title>
    <link href="http://127.0.0.1:4000/2016/07/13/mbe/"/>
-   <updated>2016-07-13T00:00:00+01:00</updated>
+   <updated>2016-07-13T00:00:00+02:00</updated>
    <id>http://127.0.0.1:4000/2016/07/13/mbe</id>
    <content type="html">&lt;p&gt;I have a &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1111/mbe.12117/abstract&quot;&gt;new paper out in Mind, Brain, and Education&lt;/a&gt;, coauthored with Azzu Ruggeri, Todd Gureckis, and Fei Xu. In the paper we argue that one reason active learning improves outcomes relative to passive conditions (like lectures) is that exercising control leads to enhanced memory (in particular, episodic memory for the events experienced during learning).&lt;/p&gt;
 
@@ -53,7 +53,7 @@
  <entry>
    <title>Active learning workshop at CogSci</title>
    <link href="http://127.0.0.1:4000/2016/07/04/cogsciworkshop/"/>
-   <updated>2016-07-04T00:00:00+01:00</updated>
+   <updated>2016-07-04T00:00:00+02:00</updated>
    <id>http://127.0.0.1:4000/2016/07/04/cogsciworkshop</id>
    <content type="html">&lt;p&gt;Next month I’ll be participating in a full-day workshop at CogSci,
 entitled &lt;a href=&quot;https://sites.google.com/site/activelearningworkshop16/home&quot;&gt;“Active learning: Cognitive development, education, and 

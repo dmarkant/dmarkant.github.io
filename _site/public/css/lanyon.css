@@ -306,12 +306,12 @@ a.sidebar-nav-item:focus {
 .post-title,
 .post-title a {
   color: black;
-  font-size: 2rem;
+  font-size: 1.75rem;
 }
 .page-title,
 .post-title {
   margin-top: 0;
-  font-size: 2rem;
+  font-size: 1.75rem;
 }
 
 /* Meta data line below post title */

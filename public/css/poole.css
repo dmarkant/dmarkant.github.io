@@ -49,12 +49,12 @@ body {
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -81,7 +81,7 @@ a:focus {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
+  margin-bottom: .6rem;
   font-weight: bold;
   line-height: 1.25;
   color: #313131;
@@ -344,6 +344,7 @@ tbody tr:nth-child(odd) th {
 
 /* Meta data line below post title */
 .post-date {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
