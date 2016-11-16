@@ -44,3 +44,13 @@ h1 {
     float: right;
     margin-left: 20px;
 }
+
+.img-float {
+    float: left;
+    width: 200px;
+    margin-right: 20px;
+}
+
+.selectedpubs {
+    font-size: .8rem;
+}
