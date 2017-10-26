@@ -4,7 +4,7 @@ title: About me
 comments: false
 ---
 
-![portrait]({{ site.baseurl }}/assets/markant_portrait_small.jpg){:id="img-portrait"}
+![portrait](/assets/markant_portrait_small.jpg){:id="img-portrait"}
 
 <p>
 Douglas Markant, Ph.D.<br />
