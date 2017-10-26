@@ -25,7 +25,7 @@ version:          1.0.0
 github:
   repo:           
 
-gems:             [jekyll-paginate]
+plugins:          [jekyll-paginate]
 
 kramdown: 
   parse_block_html: true
