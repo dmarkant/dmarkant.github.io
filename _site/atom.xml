@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Of half a mind</title>
- <link href="http://www.dougmarkant.com/atom.xml" rel="self"/>
- <link href="http://www.dougmarkant.com/"/>
- <updated>2017-10-26T15:06:29-04:00</updated>
- <id>http://www.dougmarkant.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-10-26T15:29:41-04:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Doug Markant</name>
    <email></email>
@@ -14,10 +14,10 @@
  
  <entry>
    <title>Psychonomics 2016 - Adaptive exploration in decisions from experience</title>
-   <link href="http://www.dougmarkant.com/2016/11/15/psychonomicsposter/"/>
+   <link href="http://localhost:4000/2016/11/15/psychonomicsposter/"/>
    <updated>2016-11-15T00:00:00-05:00</updated>
-   <id>http://www.dougmarkant.com/2016/11/15/psychonomicsposter</id>
-   <content type="html">&lt;p&gt;Imagine that you’re on Amazon trying to decide which of two products to purchase. One way to learn about the options before you buy is to look at reviews from other people who have bought the same items. Each review gives you a glimpse into the relative value of each option, and you can explore each item (i.e., keep on reading reviews) for as long as you like until you feel ready to hit the buy button. &lt;/p&gt;
+   <id>http://localhost:4000/2016/11/15/psychonomicsposter</id>
+   <content type="html">&lt;p&gt;Imagine that you’re on Amazon trying to decide which of two products to purchase. One way to learn about the options before you buy is to look at reviews from other people who have bought the same items. Each review gives you a glimpse into the relative value of each option, and you can explore each item (i.e., keep on reading reviews) for as long as you like until you feel ready to hit the buy button.&lt;/p&gt;
 
 &lt;p&gt;So, how many reviews do you decide to read for each product? How does the variability in the ratings affect how long you explore—for example, is there a difference between seeing a string of solid 4-star reviews as opposed to a mixture of 5-star and 3-star reviews? How does your exploration change when searching for a relatively mundane product like a power adapter as opposed to a major purchase like a computer?&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
@@ -30,10 +30,10 @@
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;I’m using product reviews as an illustrative example of experience-based decision making in the wild (our experiment was more stripped down), but some recent research has looked exactly at how sampling review ratings to learn about products impacts choice (see &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/bdm.1841/full&quot;&gt;here&lt;/a&gt;). &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;I’m using product reviews as an illustrative example of experience-based decision making in the wild (our experiment was more stripped down), but some recent research has looked exactly at how sampling review ratings to learn about products impacts choice (see &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/bdm.1841/full&quot;&gt;here&lt;/a&gt;). &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;See this recent &lt;a href=&quot;http://www.psychonomic.org/news/316843/When-EZ-does-it-Simpler-models-are-sometimes-better-than-their-complex-cousins.htm&quot;&gt;blog post&lt;/a&gt; for a nice introduction to sequential sampling models as applied to choice RT. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;See this recent &lt;a href=&quot;http://www.psychonomic.org/news/316843/When-EZ-does-it-Simpler-models-are-sometimes-better-than-their-complex-cousins.htm&quot;&gt;blog post&lt;/a&gt; for a nice introduction to sequential sampling models as applied to choice RT. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -42,9 +42,9 @@
  
  <entry>
    <title>CogSci 2016 - Hypothesis generation and self-directed learning</title>
-   <link href="http://www.dougmarkant.com/2016/08/16/cogsciposter/"/>
+   <link href="http://localhost:4000/2016/08/16/cogsciposter/"/>
    <updated>2016-08-16T00:00:00-04:00</updated>
-   <id>http://www.dougmarkant.com/2016/08/16/cogsciposter</id>
+   <id>http://localhost:4000/2016/08/16/cogsciposter</id>
    <content type="html">&lt;p&gt;At CogSci this year I presented some new work on hypothesis generation and its role in self-directed learning (specifically, the learning of categorical rules). This project explores the idea that hypothesis generation is a bottleneck in active learning, as is suggested by a lot of work in classic cognitive tasks as well as studies from educational psychology. The results give an example of how biases in the hypothesis generation process can have a big impact on whether people can efficiently learn different kinds of rules.&lt;/p&gt;
 
 &lt;p&gt;For more on this project, see the &lt;a href=&quot;/assets/Markant_CogSci2016.pdf&quot;&gt;paper&lt;/a&gt; in the proceedings and the poster below (&lt;a href=&quot;/assets/2016_CogSci_poster.pdf&quot;&gt;PDF&lt;/a&gt;).&lt;/p&gt;
@@ -56,9 +56,9 @@
  
  <entry>
    <title>Enhanced memory as a common effect of active learning (new paper)</title>
-   <link href="http://www.dougmarkant.com/2016/07/13/mbe/"/>
+   <link href="http://localhost:4000/2016/07/13/mbe/"/>
    <updated>2016-07-13T00:00:00-04:00</updated>
-   <id>http://www.dougmarkant.com/2016/07/13/mbe</id>
+   <id>http://localhost:4000/2016/07/13/mbe</id>
    <content type="html">&lt;p&gt;I have a &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1111/mbe.12117/abstract&quot;&gt;new paper out in Mind, Brain, and Education&lt;/a&gt;, coauthored with Azzu Ruggeri, Todd Gureckis, and Fei Xu. In the paper we argue that one reason active learning improves outcomes relative to passive conditions (like lectures) is that exercising control leads to enhanced memory (in particular, episodic memory for the events experienced during learning).&lt;/p&gt;
 
 &lt;p&gt;In many lab-based tasks, having control over learning (e.g., controlling the selection or pacing of new information) often leads to better memory compared to yoked conditions in which such control is absent but the same information is experienced. By surveying a range of research that has employed this kind of active/yoked design in different domains, we outline how improved memory can arise from a number of different mechanisms depending on the kind of control afforded to the active learner. Thinking about real-world learning activities in terms of this basic dimension of control (which is just one part of what people typically think of as “active learning”) may help us understand when and why active learning tends to produce better outcomes than traditional instruction.&lt;/p&gt;
@@ -80,9 +80,9 @@
  
  <entry>
    <title>Active learning workshop at CogSci</title>
-   <link href="http://www.dougmarkant.com/2016/07/04/cogsciworkshop/"/>
+   <link href="http://localhost:4000/2016/07/04/cogsciworkshop/"/>
    <updated>2016-07-04T00:00:00-04:00</updated>
-   <id>http://www.dougmarkant.com/2016/07/04/cogsciworkshop</id>
+   <id>http://localhost:4000/2016/07/04/cogsciworkshop</id>
    <content type="html">&lt;p&gt;Next month I’ll be participating in a full-day workshop at CogSci,
 entitled &lt;a href=&quot;https://sites.google.com/site/activelearningworkshop16/home&quot;&gt;“Active learning: Cognitive development, education, and 
 computational models.”&lt;/a&gt;
