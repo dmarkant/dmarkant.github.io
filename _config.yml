@@ -12,7 +12,7 @@ description:      'Learning, decision making, and cognitive science.'
 url:              http://www.dougmarkant.com
 #url:              http://127.0.0.1:4000
 baseurl:          http://www.dougmarkant.com/
-root:             '/'
+#root:             '/'
 paginate:         5
 
 author:
