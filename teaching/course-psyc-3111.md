@@ -1,10 +1,8 @@
 ---
 layout: subpage
-title: null
+title: Psychology of Learning (and Memory) (PSYC 3111) - Spring 2019
 comments: false
 ---
-
-# Psychology of Learning (and Memory) (PSYC 3111) - Spring 2019
 
 ## Quick facts
 
