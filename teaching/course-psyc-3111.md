@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Publications
+layout: subpage
+title: null
 comments: false
 ---
 
@@ -8,9 +8,11 @@ comments: false
 
 ## Quick facts
 
-| **Instructor:**    | Dr. Doug Markant                     |
-| **Office:**        | Colvard 4022                         |
-| **Office hours:**  | By appointment                       |
+| **Class meetings** | MWF 11:15am--12:05pm or 1:25pm--2:15pm |
+| **Location**       | Colvard 4123                           |
+| **Instructor:**    | Dr. Doug Markant                       |
+| **Office:**        | Colvard 4022                           |
+| **Office hours:**  | TBD                                    |
 
 
 *Last updated: November 1, 2018*
@@ -18,18 +20,19 @@ comments: false
 
 ## Course description
 
-Learning and memory underlie who we are as individuals, how we have been shaped by our experience, and what we are capable of achieving in the future. This course will provide an introduction to the main theories and subfields of the psychological science of learning and memory.
+Learning and memory underlie who we are as individuals, how we have been shaped by our experience, and what we are capable of achieving in the future. This course will provide an introduction to the main theories and subfields of the psychological science of learning and memory, as well as the methods used by psychologists to understand learning and memory processes. A few of the questions we will consider in the class include: 
 
-
-- Why do you forget some information immediately, but other things you can remember throughout your entire life?
 - When do people learn from their mistakes? 
+- Why do you forget some information immediately, but other things you seem to remember forever?
 - How do you adapt to new and unfamiliar situations?
-- Can you learn to be a better learner?
+- What strategies are most effective for studying?
+
+The course will involve a mix of lectures, hands-on activities, and group discussions. Major assessments will include a midterm exam and final exam based on lecture material and textbook readings.
 
 
 ## Materials
 
-- Gluck, M. A., Mercado, E., and Myers, C. E. Learning and Memory: From Brain to Behavior (3rd edition). Worth Publishers. New York. - [link](https://www.macmillanlearning.com/Catalog/product/learningandmemory-thirdedition-gluck)
+- (GMM): Gluck, M. A., Mercado, E., and Myers, C. E. Learning and Memory: From Brain to Behavior (3rd edition). Worth Publishers. New York. - [link to publisher](https://www.macmillanlearning.com/Catalog/product/learningandmemory-thirdedition-gluck)
 - Other assigned readings will be posted on the course Canvas page.
 
 
@@ -37,24 +40,24 @@ Learning and memory underlie who we are as individuals, how we have been shaped 
 
 Please note: This schedule, including the assigned supplemental readings, is tentative and subject to change (all changes will be posted online and announced in class). It is your responsibility to keep track of changes/additions through regular class attendance and use of Canvas. 
 
-| Date                      | Topic                                                                 |   |
-| ----------                | --------------------------------------------------------------------- |   |
-| Week 1 (Jan. 9-11)        | Introduction to the course                                            |   |
-| Week 2 (Jan. 14-16)       | Neuroscience of Learning and Memory                                   |   |
-| Week 3 (Jan. 21-25)       | Habituation, Sensitization and Familiarity                            |   |
-| Week 4 (Jan. 28 - Feb. 1) | Conditioning                                                          |   |
-| Week 5 (Feb. 4 - 8)       | Concept Learning                                                      |   |
-| Week 6 (Feb. 11 - 15)     | Memory Systems; Episodic and Semantic Memory                          |   |
-| Week 7 (Feb. 18 - 22)     | Skill Memory                                                          |   |
-| Week 8 (Feb. 25 - Mar. 1) | Working Memory and Cognitive Control                                  |   |
-| Week 9 (Mar. 11 - 15)     | Statistical Learning                                                  |   |
-| Week 10 (Mar. 18 - 22)    | Expertise                                                             |   |
-| Week 11 (Mar. 25 - 29)    | Social Learning                                                       |   |
-| Week 12 (April 1 - 5)     | Emotional Influences                                                  |   |
-| Week 13 (April 8 - 12)    | Development and Aging                                                 |   |
-| Week 14 (April 15 - 17)   | Clinical Perspectives                                                 |   |
-| Week 15 (April 22 - 26)   | Cultural Perspectives: Learning and Memory in Context                 |   |
-| Week 16 (April 29)        |                                                                       |   |
+| Date                      | Topic                                                                 | GMM  |
+| ----------                | --------------------------------------------------------------------- | ---  |
+| Week 1 (Jan. 9-11)        | Introduction to the course                                            | 1    |
+| Week 2 (Jan. 14-16)       | Neuroscience of Learning and Memory                                   | 2    |
+| Week 3 (Jan. 21-25)       | Habituation, Sensitization and Familiarity                            | 3    |
+| Week 4 (Jan. 28 - Feb. 1) | Conditioning                                                          | 4, 5 |
+| Week 5 (Feb. 4 - 8)       | Concept Learning                                                      | 6    |
+| Week 6 (Feb. 11 - 15)     | Memory Systems; Episodic and Semantic Memory                          | 7    |
+| Week 7 (Feb. 18 - 22)     | Skill Memory                                                          | 8    |
+| Week 8 (Feb. 25 - Mar. 1) | Working Memory and Cognitive Control                                  | 9    |
+| Week 9 (Mar. 11 - 15)     | Statistical Learning                                                  |      |
+| Week 10 (Mar. 18 - 22)    | Expertise                                                             |      |
+| Week 11 (Mar. 25 - 29)    | Social Learning                                                       | 11   |
+| Week 12 (April 1 - 5)     | Emotional Influences                                                  | 10   |
+| Week 13 (April 8 - 12)    | Development and Aging                                                 | 12   |
+| Week 14 (April 15 - 17)   | Clinical Perspectives                                                 |      |
+| Week 15 (April 22 - 26)   | Cultural Perspectives: Learning and Memory in Context                 |      |
+| Week 16 (April 29)        | Review session                                                        |      |
 
 
 
@@ -62,13 +65,11 @@ Please note: This schedule, including the assigned supplemental readings, is ten
 
 ### Late policy
 
-Assignments turned in after 11:59pm on the due date (unless otherwise specified) will be considered late. Late assignments will automatically be marked off by 20%. The only exception is the final draft of the term paper, which will receive no credit if submitted late. 
+Assignments turned in after 11:59pm on the due date (unless otherwise specified) will be considered late. Late assignments will automatically be marked off by 25%.  
 
 ### Plagiarism
 
 Plagiarism is a violation of academic integrity policy. 
-If you are not aware of what constitutes plagiarism, see X and X.
-
 As a condition of taking this course, all required papers may be subject to submission for textual similarity review to VeriCite for the detection of plagiarism. All submitted papers will be included as source documents in the VeriCite reference database solely for the purpose of detecting plagiarism of such papers. No student papers will be submitted to VeriCite without a student’s written consent and permission. If a student does not provide such written consent and permission, the instructor may: (i) require a short reflection paper on research methodology; (ii) require a draft bibliography prior to submission of the final paper; or (iii) require the cover page and first cited page of each reference source to be photocopied and submitted with the final paper.
 
 ### Accommodations

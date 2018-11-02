@@ -6,16 +6,14 @@ comments: false
 
 [Google scholar profile](https://scholar.google.com/citations?user=lXiXiHAAAAAJ&hl=en)
 
-- Markant, D., Ruggeri, A., Gureckis, T. M., and Xu, F. (2016, in press). [“Enhanced memory as a common effect of active learning.”](/assets/MarkantEtAl_MBE2016.pdf) <i>Mind, Brain, and Education.</i>
-- Markant, D. (2016, in press). [“The impact of biased hypothesis generation on self-directed learning.”](/assets/Markant_CogSci2016.pdf) In Papafragou, A., Grodner, D., Mirman, D., and Trueswell, J. (Eds.) <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i>. Austin, TX: Cognitive Science Society.
-  - [Experiment code repository](https://github.com/dmarkant/exp_biasedHypothesisGeneration)
+- Markant, D. (in press). "Effects of biased hypothesis generation on self-directed category learning." *Journal of Experimental Psychology: Learning, Memory, and Cognition.*
+- Markant, D., Ruggeri, A., Gureckis, T. M., and Xu, F. (2016). [“Enhanced memory as a common effect of active learning.”](/assets/MarkantEtAl_MBE2016.pdf) <i>Mind, Brain, and Education.</i>
+- Markant, D. (2016). [“The impact of biased hypothesis generation on self-directed learning.”](/assets/Markant_CogSci2016.pdf) In Papafragou, A., Grodner, D., Mirman, D., and Trueswell, J. (Eds.) <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i>. Austin, TX: Cognitive Science Society. [[experiment code]](https://github.com/dmarkant/exp_biasedHypothesisGeneration)
 - Ruggeri, A., Markant, D., Gureckis, T. M., and Xu, F. (2016, in press). [Active control of study leads to improved recognition memory in children.”](/assets/RuggeriEtAl_CogSci2016.pdf) In Papafragou, A., Grodner, D., Mirman, D., and Trueswell, J. (Eds.) <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i>. Austin, TX: Cognitive Science Society.
 - Markant, D., Settles, B., and Gureckis, T.M. (2016). <a href="http://dx.doi.org/10.1111/cogs.12220">"Self-directed learning favors local, rather than global, uncertainty."</a> <i>Cognitive Science 40</i>(1), 100—120. doi: 10.1111/cogs.12220
 - Gureckis, T.M., Martin, J., McDonnell, J.V., Rich, A.S., Markant, D., Coenen, A., Hamrick, J., Chan, P. (2015).
 <a href="/assets/psiTurkBRM2015.pdf">"psiTurk: An open-source framework for conducting replicable behavioral experiments online."</a>
 <i>Behavior Research Methods</i>.
-  - If you want to conduct research using Amazon Mechanical Turk, [psiTurk](http://www.psiturk.org) will help you get started and deal with some technical hurdles. It also makes it easy to [share your experiments](https://psiturk.org/ee/) with others so that they can quickly
-replicate and improve upon your ideas :)
 - Markant, D., Pleskac, T.J., Diederich, A., Pachur, T., and Hertwig, R. (2015). 
 <a href="/assets/Markant_CogSci2015.pdf">"Modeling choice and search in decisions from experience: A sequential sampling approach."</a> 
 In Dale., R., Jennings, C., Maglio, P., Matlock, T., Noelle, D., Warlaumont, A., Yoshimi, J. (Eds.), <i>Proceedings of the 37th Annual Conference of the Cognitive Science Society.</i> Austin, TX: Cognitive Science Society.
