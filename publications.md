@@ -6,7 +6,15 @@ comments: false
 
 [Google scholar profile](https://scholar.google.com/citations?user=lXiXiHAAAAAJ&hl=en)
 
-- Markant, D. (in press). "Effects of biased hypothesis generation on self-directed category learning." *Journal of Experimental Psychology: Learning, Memory, and Cognition.*
+## Preprints
+
+- Markant, D. (2018). ["Active transitive inference: When learner control enhances integrative encoding."](https://psyarxiv.com/h2e5f)
+- Ruggeri, A., Markant, D., Gureckis, T., & Xu, F. (2018). ["Memory enhancements from active control of learning emerge across development."](https://osf.io/5fjbt/)
+
+## Published
+
+- Markant, D. (2018). "Effects of biased hypothesis generation on self-directed category learning." *Journal of Experimental Psychology: Learning, Memory, and Cognition.*
+- Adams, K. A., Kachergis, G., & Markant, D. (2017). “Children’s familiarity preference in self-directed study improves recognition memory.” In G. Gunzelmann, A. Howes, T. Tenbrink, & E. J. Davelaar (Eds.), Proceedings of the 39th Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society. 
 - Markant, D., Ruggeri, A., Gureckis, T. M., and Xu, F. (2016). [“Enhanced memory as a common effect of active learning.”](/assets/MarkantEtAl_MBE2016.pdf) <i>Mind, Brain, and Education.</i>
 - Markant, D. (2016). [“The impact of biased hypothesis generation on self-directed learning.”](/assets/Markant_CogSci2016.pdf) In Papafragou, A., Grodner, D., Mirman, D., and Trueswell, J. (Eds.) <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i>. Austin, TX: Cognitive Science Society. [[experiment code]](https://github.com/dmarkant/exp_biasedHypothesisGeneration)
 - Ruggeri, A., Markant, D., Gureckis, T. M., and Xu, F. (2016). [Active control of study leads to improved recognition memory in children.”](/assets/RuggeriEtAl_CogSci2016.pdf) In Papafragou, A., Grodner, D., Mirman, D., and Trueswell, J. (Eds.) <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i>. Austin, TX: Cognitive Science Society.
