@@ -2,6 +2,7 @@
 layout: page
 title: Research
 comments: false
+published: false
 ---
 
 Uncertainty often has a negative connotation. It implies some mismatch between how the world is operating and our ability to predict it. But for a learner, uncertainty is like a lighthouse pointing the way, signaling that there’s something worth learning about. Uncertainty can therefore be the link between action and learning.
