@@ -9,10 +9,11 @@ comments: false
 ## Preprints
 - Markant, D., Phillips, N., Kareev, Y., Avrahami, J., & Hertwig, R. (2018). [To act fast or to bide time? Adaptive exploration under competitive pressure.](https://doi.org/10.31234/osf.io/3jwtq)
 - Markant, D. (2018). ["Active transitive inference: When learner control enhances integrative encoding."](https://psyarxiv.com/h2e5f)
-- Ruggeri, A., Markant, D., Gureckis, T., & Xu, F. (2018). ["Memory enhancements from active control of learning emerge across development."](https://osf.io/5fjbt/)
 
 ## Published
 
+- Ruggeri, A., Markant, D., Gureckis, T. M., Bretzke, M., & Xu, F. (2019). [“Memory enhancements from active control of
+learning emerge across development.”](https://doi.org/10.1016/j.cognition.2019.01.010) *Cognition* 186, 82–94. doi: 10.1016/j.cognition.2019.01.010
 - Markant, D. (2018). ["Effects of biased hypothesis generation on self-directed category learning."](https://doi.org/10.1037/xlm0000671) *Journal of Experimental Psychology: Learning, Memory, and Cognition.* 
 - Adams, K. A., Kachergis, G., & Markant, D. (2017). “Children’s familiarity preference in self-directed study improves recognition memory.” In G. Gunzelmann, A. Howes, T. Tenbrink, & E. J. Davelaar (Eds.), Proceedings of the 39th Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society. 
 - Markant, D., Ruggeri, A., Gureckis, T. M., and Xu, F. (2016). [“Enhanced memory as a common effect of active learning.”](/assets/MarkantEtAl_MBE2016.pdf) <i>Mind, Brain, and Education.</i>
