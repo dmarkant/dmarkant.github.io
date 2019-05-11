@@ -8,10 +8,11 @@ comments: false
 
 ## Preprints
 - Markant, D., Phillips, N., Kareev, Y., Avrahami, J., & Hertwig, R. (2018). [To act fast or to bide time? Adaptive exploration under competitive pressure.](https://doi.org/10.31234/osf.io/3jwtq)
-- Markant, D. (2018). ["Active transitive inference: When learner control enhances integrative encoding."](https://psyarxiv.com/h2e5f)
 
 ## Published
 
+
+- Markant, D. (2019). [“Navigating the 'chain of command': Enhanced integrative encoding through active control of study."](/assets/Markant_CogSci2019_ATI.pdf) In <i>Proceedings of the 41st Annual Conference of the Cognitive Science Society</i>. Austin, TX: Cognitive Science Society.
 - Ruggeri, A., Markant, D., Gureckis, T. M., Bretzke, M., & Xu, F. (2019). [“Memory enhancements from active control of
 learning emerge across development.”](https://doi.org/10.1016/j.cognition.2019.01.010) *Cognition* 186, 82–94. doi: 10.1016/j.cognition.2019.01.010
 - Markant, D. (2018). ["Effects of biased hypothesis generation on self-directed category learning."](https://doi.org/10.1037/xlm0000671) *Journal of Experimental Psychology: Learning, Memory, and Cognition.* 
